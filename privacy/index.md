@@ -3,7 +3,7 @@
 This application is a personal OAuth client used with rclone to access the owner's Google Drive.
 
 ## Data Access
-ふ
+
 The application accesses Google Drive data only when instructed by the owner for personal file operations.
 
 ## Data Sharing
